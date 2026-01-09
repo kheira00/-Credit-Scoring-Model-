@@ -1,5 +1,12 @@
 
 # Task 1: Credit Scoring Model
+**Intern Information**  
+- **Name**: Kheira BENABDELMOUMENE  
+- **Domain**: Machine Learning  
+- **Task**:Credit Scoring Model  
+- **GitHub**: https://github.com/kheira00  
+- **Submission Date**: 01/09/2026
+
 
 **Objective**: Predict loan default risk (loan_status: 0 = repay, 1 = default).  
 Credit scoring is critical in banking and fintech for managing financial risk.
